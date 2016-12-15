@@ -1,0 +1,7 @@
+Please use following commands to run
+
+make clean
+cleans the code the in ./classes directory
+
+make run
+this compiles the code into ./classes directory and runs the code with some testcases.
